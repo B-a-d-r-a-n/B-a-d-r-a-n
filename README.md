@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://github.com/B-a-d-r-a-n/">Mohamed Badran</a></h2>
-<p>I'm currently a freelance software engineer specialized in web development across either the microsoft or mern stacks Hit me up if you to collab on a project.</p>
+<p>I'm currently a freelance software engineer specialized in web development across either the Microsoft or MEARN stacks Hit me up if you to collab on a project.</p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
