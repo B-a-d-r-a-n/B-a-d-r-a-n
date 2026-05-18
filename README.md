@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://github.com/B-a-d-r-a-n/">Mohamed Badran</a></h2>
-<p>I'm a software engineer specialized in web development across either the Microsoft or MEARN stacks Hit me up if you want to collab on a project.</p>
+<p>I'm a software engineer specialized in web development AI automation Hit me up if you want to collab on a project.</p>
 <img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <h2>⚡️ A Few Quick Facts</h2>
